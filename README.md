@@ -1,12 +1,17 @@
-# React + Vite
+**This is a small app designed for learning some of the key concepts of React.**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### React Concepts Demonstrated:
 
-Currently, two official plugins are available:
+- **State Management**: Using `useState` hook to manage application state
+- **Props**: Passing data and functions between components
+- **Event Handling**: Processing user inputs and button clicks
+- **Controlled Components**: Form inputs tied to React state
+- **Conditional Rendering**: Showing/hiding elements based on conditions
+- **Lists and Keys**: Rendering history items with unique keys
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ### JavaScript Features:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Temperature conversion calculations
+- Array manipulation (adding to history)
+- Number formatting and rounding
+- Conditional logic
